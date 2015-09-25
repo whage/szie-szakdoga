@@ -1,6 +1,9 @@
 # pdf documents referenced in my work
 pdf_forrasok
 
+# pdf export
+sallai_andras_szakdolgozat.pdf
+
 # ms word temp files
 *.tmp
 ~$*
